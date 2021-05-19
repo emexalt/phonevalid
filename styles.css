@@ -1,0 +1,25 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+h4 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 14px;
+}
+
+[type=text] {
+    font-size: x-large;
+    padding: 20px 200px 20px 200px;
+}
+
+#error{
+    color: red;
+}
